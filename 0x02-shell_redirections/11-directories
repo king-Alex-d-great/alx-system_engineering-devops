@@ -1,2 +1,1 @@
 #!/bin/bash
-find -path "*/*" -type d | wc -1
